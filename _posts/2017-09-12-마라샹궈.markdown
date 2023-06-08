@@ -1,0 +1,12 @@
+---
+layout: post
+title: 마라샹궈
+date: 2017-09-12 00:00:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: marashanguao.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Productivity, Workflow] # add tag
+---
+
+오늘은 마라샹궈 데이입니다.
+마라샹궈를 먹는 날이기 때문입니다.
